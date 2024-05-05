@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced techniques in deep learning and large language models.
 - 💞️ I’m looking to collaborate on projects related to predictive modeling and AI applications in industrial engineering.
 - 📫 Feel free to connect with me on LinkedIn at www.linkedin.com/in/fatemeh-abbasi1 and fatemeh.abbasi154@gmail.com
-- ⚡ Fun fact: ...
+
 
 <!---
 FatemehAbbasi166/FatemehAbbasi166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
